@@ -3,4 +3,6 @@ pandas
 matplotlib
 ipykernel
 seaborn
+scikit-learn
+statsmodels
 -e .
